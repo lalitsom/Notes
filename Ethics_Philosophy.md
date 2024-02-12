@@ -1,57 +1,16 @@
-Ethics Notes : What's the right thing to do?
-=============================================
+
+
+# Ethics Notes: What's the right thing to do?
 
 Inspired From: [Harvard University's Justice with Michael Sandel](https://www.youtube.com/watch?v=kBdfcR-8hEY&list=PL30C13C91CFFE52F2)
 
+## Lecture 1
 
+The discussion revolves around a moral dilemma involving the sacrifice of one life to save others. Some argue that the lack of consent and consultation with the cabin boy makes the decision morally wrong. On the other hand, others believe that with consent and a fair procedure like a lottery, the sacrifice can be morally justified.
 
-Lecture 1:
----------
+This debate raises questions about the categorical wrongness of murder and the source of fundamental rights. The concept of consent plays a significant role in determining the moral permissibility of taking a life. The utilitarian perspective, represented by Bentham and Mill, emphasizes the calculation of overall happiness and welfare. In the decision-making process, the wider effects, such as the impact on families and dependents, are considered.
 
-Lessons from First Principles:
-
-1. The discussion revolves around a moral dilemma involving the sacrifice of one life to save others.
-2. Some argue that the lack of consent and consultation with the cabin boy makes the decision morally wrong.
-3. Others believe that with consent and a fair procedure like a lottery, the sacrifice can be morally justified.
-4. The debate raises questions about the categorical wrongness of murder and the source of fundamental rights.
-5. The concept of consent plays a significant role in determining the moral permissibility of taking a life.
-6. The utilitarian perspective, represented by Bentham and Mill, emphasizes the calculation of overall happiness and welfare.
-7. The wider effects, such as the impact on families and dependents, are considered in the decision-making process.
-8. The objections to the sacrifice highlight the importance of considering individual rights and equality.
-9. The transcript prompts further exploration of philosophical questions related to consent, fair procedures, and moral obligations.
-
-For more in-depth analysis and insights, it is recommended to read the works of Bentham and Mill, as mentioned in the transcript.
-
-
-Bard:
-
-Sure, here is a summary of the video, which uses first principles and does not leave out any important concepts, arguments, or personality names:
-
-The video is about the trolley problem, a famous thought experiment in ethics. The speaker uses the trolley problem to introduce the concept of utilitarianism and consequentialism.
-
-The trolley problem is a thought experiment in which you imagine yourself as the driver of a runaway trolley barreling towards five people tied to the tracks. You can divert the trolley onto a side track, but doing so would kill one person instead of five. The problem asks what the right thing to do is.
-
-Utilitarianism is a theory in ethics that says that the right thing to do is the action that produces the most happiness or well-being for the greatest number of people. Consequentialism is a broader theory that says that the right thing to do is the action that produces the best overall consequences.
-
-In the first part of the video, the speaker asks the audience what they would do in the trolley problem. Most people say they would divert the trolley and kill one person, rather than kill five.
-
-The speaker then introduces a second scenario, in which you are not the driver of the trolley but an observer. You can push a fat man onto the tracks, killing him but saving the five people tied to the tracks. Most people say they would not push the fat man.
-
-The speaker argues that these two scenarios show that people are inconsistent in their moral reasoning. In the first scenario, most people are willing to kill one person to save five, but in the second scenario, most people are not willing to kill one person to save five.
-
-The speaker suggests that this inconsistency is because people are more likely to be consequentialist when they are the ones making the decision, but more likely to be deontological (i.e., concerned with following rules) when they are observing others make decisions.
-
-In the second part of the video, the speaker discusses the case of the Queen v. Dudley and Stephens, a famous 19th century British case in which two sailors were shipwrecked and killed a cabin boy to survive. The speaker asks whether the sailors were right to kill the cabin boy, and whether their actions can be justified by utilitarianism.
-
-The speaker then introduces three objections to utilitarianism:
-
-Categorical objection: Some people believe that certain actions are always wrong, regardless of the consequences. For example, murder is always wrong, even if it saves lives.
-Fairness objection: Some people believe that even if utilitarianism is the right theory, it must be applied fairly. In the trolley problem, for example, it would be unfair to choose which one person to kill.
-Consent objection: Some people believe that it is only permissible to kill someone if they consent to being killed. In the case of the Queen v. Dudley and Stephens, the cabin boy did not consent to being killed.
-The speaker concludes the video by saying that these are all important questions that philosophers have been debating for centuries. There is no easy answer, and the right answer may depend on the specific circumstances.
-
-The speaker encourages viewers to think carefully about these issues and to form their own opinions.
-
+The objections to the sacrifice highlight the importance of considering individual rights and equality. The transcript prompts further exploration of philosophical questions related to consent, fair procedures, and moral obligations.
 
 
 Lecture 2:
@@ -74,6 +33,7 @@ In this transcript, the discussion revolves around the topic of self-possession,
 
 
 Lecture 4:
+----------
 
 The video discusses John Locke's ideas on natural rights and government. Here are some of the key concepts and definitions:
 
@@ -131,5 +91,3 @@ The video discusses the case of the murderer at the door, which is a case that K
 The video also discusses the case of Bill Clinton and his impeachment hearings. Clinton was accused of lying about his relationship with Monica Lewinsky. The video asks whether Clinton's actions were wrong, and it discusses the different perspectives on this issue.
 
 Finally, the video discusses the idea of a hypothetical contract. This is a contract that we would make if we were all equal in power and knowledge. The idea is that the principles of justice that would emerge from this contract would be the right principles of justice.
-
-The video is a complex and challenging discussion of moral philosophy. It raises important questions about the nature of morality, the role of reason, and the importance of justice.
