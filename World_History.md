@@ -33,7 +33,7 @@ These events, among others, laid the foundation for the developments and transfo
 
 
 
-The 18th century was a period of significant change and transformation across the globe. Here are some key world events from that century:
+## 18th century was a period of significant change and transformation across the globe. Here are some key world events from that century:
 
 1. **Age of Enlightenment (late 17th to 18th century)**: A cultural and intellectual movement emphasizing reason, science, and individual rights, which had a profound impact on politics, philosophy, and society.
 
@@ -74,7 +74,7 @@ These events, among others, shaped the course of world history during the 18th c
 
 
 
-The 19th century was a time of profound change and transformation across the globe. Here are some key events from that century:
+## The 19th century was a time of profound change and transformation across the globe. Here are some key events from that century:
 
 1. **Napoleonic Wars (1803-1815)**: A series of conflicts fought between France, under Napoleon Bonaparte, and various European powers. These wars reshaped the political landscape of Europe and had far-reaching effects globally.
 
@@ -115,7 +115,7 @@ These events, among others, shaped the political, economic, and social landscape
 
 
 
-The 20th century was a period of immense change and upheaval, marked by significant technological advancements, political transformations, and global conflicts. Here are some key events from that century:
+## The 20th century was a period of immense change and upheaval, marked by significant technological advancements, political transformations, and global conflicts. Here are some key events from that century:
 
 1. **World War I (1914-1918)**: A global conflict involving major world powers, primarily centered in Europe. It resulted in millions of casualties and significant changes to the political map of the world, including the collapse of empires such as the Austro-Hungarian, Ottoman, Russian, and German Empires.
 
@@ -151,9 +151,7 @@ These events, among others, shaped the course of the 20th century and continue t
 
 
 
-
-
-21st century, as of my last update in January 2022:
+## 21st century (till 2022)
 
 1. **September 11 Attacks (2001)**: A series of coordinated terrorist attacks by the extremist group al-Qaeda on the United States, including the World Trade Center in New York City and the Pentagon in Arlington, Virginia. Nearly 3,000 people were killed, leading to significant changes in global security policies and the initiation of the War on Terror.
 
