@@ -175,3 +175,21 @@ These events, among others, shaped the course of the 20th century and continue t
 
 These events, among others, have had profound impacts on the course of the 21st century and continue to shape the world in significant ways.
 
+
+
+--------------------------------------------------------
+Throughout history, there have been numerous massacres and atrocities that have resulted in significant loss of life. While it's difficult to rank them in terms of scale or severity, some other notable massacres include:
+
+The Holocaust: The systematic genocide of six million Jews by Nazi Germany during World War II, along with millions of others, including Romani people, disabled individuals, and political dissidents.
+
+The Rwandan Genocide: The mass slaughter of an estimated 800,000 Tutsis and moderate Hutus by Hutu extremists in Rwanda over the course of approximately 100 days in 1994.
+
+The Great Leap Forward: A catastrophic social and economic campaign initiated by Mao Zedong in China from 1958 to 1962, resulting in widespread famine and an estimated death toll ranging from 15 to 45 million people.
+
+The Armenian Genocide: The systematic extermination of approximately 1.5 million Armenians by the Ottoman Empire during World War I, accompanied by forced deportations, massacres, and other atrocities.
+
+The Cambodian Genocide: The Khmer Rouge regime's brutal campaign of mass murder and forced labor in Cambodia from 1975 to 1979, resulting in the deaths of an estimated 1.7 to 2.2 million people.
+
+The Second Congo War: A complex conflict that engulfed the Democratic Republic of the Congo from 1998 to 2003, resulting in widespread violence, displacement, and an estimated death toll ranging from 2.5 to 5.4 million people.
+
+These are just a few examples, and there are many other tragic events throughout history that have resulted in significant loss of life. Each of these massacres represents a profound human tragedy and serves as a reminder of the importance of preventing and confronting genocide and mass atrocities.
