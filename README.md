@@ -1,2 +1,2 @@
 # Notes
-Notes for all things
+A repository to keep notes for all my future learnings
