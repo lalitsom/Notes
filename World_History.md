@@ -1,5 +1,4 @@
 Pre-18th Century
-Certainly, here are some key events that occurred before the 18th century:
 
 1. **Ancient Civilizations**: The rise and fall of several ancient civilizations, including Mesopotamia, Egypt, Greece, and Rome, which made significant contributions to art, culture, politics, and technology.
 
